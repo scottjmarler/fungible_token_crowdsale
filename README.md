@@ -61,9 +61,14 @@ The crowdsale contract will manage the entire crowdsale process, allowing users 
 https://user-images.githubusercontent.com/96508083/183490273-aa829055-d257-4c66-8cbe-cd902150309d.mov
 
 ### Transact
-https://user-images.githubusercontent.com/96508083/183490374-f3c30f63-29a4-4341-9cba-559c839414e6.mov
-https://user-images.githubusercontent.com/96508083/183490476-4cee4bff-7936-4bee-852c-00ac3e85a340.mov
-https://user-images.githubusercontent.com/96508083/183490932-0ff2f8a9-cd30-4183-abc0-1e9a7a4c4355.mov
+
+https://user-images.githubusercontent.com/96508083/183491518-3c65ae2e-a336-42ce-850b-e40545173b72.mov
+
+https://user-images.githubusercontent.com/96508083/183491557-4857920d-61b1-4f94-970f-ef5a0ae477d6.mov
+
+https://user-images.githubusercontent.com/96508083/183491603-4a3a0fcc-a8e4-462b-85f8-f1317c21ef56.mov
+
+
 
 ### Total Supply
 ![total_supply](https://user-images.githubusercontent.com/96508083/183491034-8d894af8-a71e-454b-b2c6-04ac0a0a94d8.png)
