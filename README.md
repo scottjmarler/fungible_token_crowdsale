@@ -53,6 +53,24 @@ The crowdsale contract will manage the entire crowdsale process, allowing users 
 
 ## Smart Contract Functionality Screen Shots
 
+### Compile 
+![compiled_contract_2](https://user-images.githubusercontent.com/96508083/183490300-5f37d5db-47ab-482b-b932-22ee62badf1e.png)
+![compiled_contract_1](https://user-images.githubusercontent.com/96508083/183490353-cceb31b0-f8b9-4572-a1a1-e8bf84ed2d76.png)
+
+### Deploy
+https://user-images.githubusercontent.com/96508083/183490273-aa829055-d257-4c66-8cbe-cd902150309d.mov
+
+### Transact
+https://user-images.githubusercontent.com/96508083/183490374-f3c30f63-29a4-4341-9cba-559c839414e6.mov
+https://user-images.githubusercontent.com/96508083/183490476-4cee4bff-7936-4bee-852c-00ac3e85a340.mov
+https://user-images.githubusercontent.com/96508083/183490932-0ff2f8a9-cd30-4183-abc0-1e9a7a4c4355.mov
+
+### Total Supply
+![total_supply](https://user-images.githubusercontent.com/96508083/183491034-8d894af8-a71e-454b-b2c6-04ac0a0a94d8.png)
+
+### wei Raised
+![wei_raised](https://user-images.githubusercontent.com/96508083/183491086-9a466e42-03a5-40ef-82ef-b3637930de71.png)
+
 
 
 
